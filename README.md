@@ -13,7 +13,7 @@ O objetivo deste projeto foi a atualização da infraestrutura de comunicação 
 
 Beta Lda (Cisco Packet Tracer):
 
-![42](https://github.com/user-attachments/assets/b26c4f88-94c8-48d5-a0ca-07d415ab7ab7)
+<img width="456" alt="32" src="https://github.com/user-attachments/assets/bb068db8-cfe1-47a7-8d2b-3953c521dec3">
 
 Sede de Lisboa:
 
