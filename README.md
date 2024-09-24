@@ -4,7 +4,8 @@ Projeto no âmbito da disciplina de Redes de Computadores
 
 Criadores: André Jesus / Tomás Nave
 
-![redes](https://github.com/user-attachments/assets/311b0bb0-d884-4b27-89bb-65583bcb1c2f)
+![41](https://github.com/user-attachments/assets/789e97b0-8d0d-4b05-9bd5-86e91e4c29d9)
+
 
 Objetivo:
 
